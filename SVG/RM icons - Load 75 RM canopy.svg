@@ -1,0 +1,62 @@
+<svg id="afe3d011-3c13-4f6b-99a7-9eab5f970d6d" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="99.36476" height="46.95249" viewBox="0 0 99.36476 46.95249">
+  <defs>
+    <style>
+      .b0cb41ca-0778-4464-9958-c6472c5118d2 {
+        fill: #58595b;
+      }
+
+      .a14f223c-99f5-477d-a3c3-dafb2ccd9fc6, .a1e96ab1-c03b-4490-81c6-594c16d46c8d, .a96982fb-edd1-4234-9794-53a67826a2cd, .eafeea79-7111-4c7f-a745-dfa5a06025ec {
+        fill: none;
+      }
+
+      .eafeea79-7111-4c7f-a745-dfa5a06025ec {
+        stroke: #58595b;
+      }
+
+      .a14f223c-99f5-477d-a3c3-dafb2ccd9fc6, .a96982fb-edd1-4234-9794-53a67826a2cd, .eafeea79-7111-4c7f-a745-dfa5a06025ec {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a14f223c-99f5-477d-a3c3-dafb2ccd9fc6, .eafeea79-7111-4c7f-a745-dfa5a06025ec {
+        stroke-width: 3px;
+      }
+
+      .a14f223c-99f5-477d-a3c3-dafb2ccd9fc6, .a1e96ab1-c03b-4490-81c6-594c16d46c8d, .a96982fb-edd1-4234-9794-53a67826a2cd {
+        stroke: #231f20;
+      }
+
+      .a1e96ab1-c03b-4490-81c6-594c16d46c8d, .a96982fb-edd1-4234-9794-53a67826a2cd {
+        stroke-width: 2px;
+      }
+
+      .a1e96ab1-c03b-4490-81c6-594c16d46c8d {
+        stroke-miterlimit: 10;
+      }
+
+      .a7d87a18-aeda-4f56-a08d-eced8b30e0b1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>RM icons - Load 75 RM canopy</title>
+  <g>
+    <polygon class="b0cb41ca-0778-4464-9958-c6472c5118d2" points="80.802 20.387 81.62 22.368 75.023 37.33 44.644 37.33 44.022 27.645 43.646 21.79 44.272 15.261 49.113 15.261 50.877 1.732 58.765 3.922 67.922 7.555 75.62 13.022 80.802 20.387"/>
+    <path class="eafeea79-7111-4c7f-a745-dfa5a06025ec" d="M45.81057,1.5c27.08251,0,34.99175,18.88678,34.99175,18.88678"/>
+    <circle class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" cx="12.56838" cy="34.38411" r="11.06838"/>
+    <circle class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" cx="89.7423" cy="37.33002" r="8.12246"/>
+    <polyline class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" points="44.771 39.301 43.646 21.79 44.802 9.735 41.995 8.167"/>
+    <polyline class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" points="76.839 32.937 44.022 27.645 24.914 23.815"/>
+    <line class="a96982fb-edd1-4234-9794-53a67826a2cd" x1="23.33922" y1="20.11949" x2="28.64262" y2="24.56216"/>
+    <polyline class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" points="81.62 22.368 75.023 37.33 44.644 37.33 29.053 33.525"/>
+    <line class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" x1="80.80232" y1="20.38678" x2="88.64634" y2="37.80876"/>
+    <line class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" x1="52.81155" y1="37.33002" x2="56.89673" y2="29.72094"/>
+    <line class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" x1="64.76514" y1="30.98995" x2="67.92161" y2="37.33002"/>
+    <polyline class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" points="12.568 34.384 29.857 35.414 19.371 10.809"/>
+    <line class="a14f223c-99f5-477d-a3c3-dafb2ccd9fc6" x1="24.4905" y1="10.80882" x2="15.24281" y2="10.80882"/>
+    <polyline class="a96982fb-edd1-4234-9794-53a67826a2cd" points="12.568 34.384 29.857 27.735 36.463 29.098 39.725 26.783"/>
+    <circle class="a1e96ab1-c03b-4490-81c6-594c16d46c8d" cx="12.56838" cy="34.38411" r="3.70655"/>
+    <circle class="a1e96ab1-c03b-4490-81c6-594c16d46c8d" cx="89.7423" cy="37.33002" r="0.59218"/>
+    <path class="a7d87a18-aeda-4f56-a08d-eced8b30e0b1" d="M34.20583,39.36807a11.09876,11.09876,0,0,1-3.75277,1.21676A3.17236,3.17236,0,0,1,27.25625,37.388h0a3.19681,3.19681,0,0,1,3.19681-3.19681h2.843c1.76555,0,3.16257,1.00267,3.16257,2.52555S35.36179,38.81762,34.20583,39.36807Z"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg id="a1c38503-dd3c-43d2-8713-3923a51ae81d" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="85.24676" height="43.09081" viewBox="0 0 85.24676 43.09081">
+  <defs>
+    <style>
+      .a14179a5-8aae-4009-b6b2-5d58abe2e51a, .e4fcfd1f-0ea6-4805-83c0-0452f39df8ac {
+        fill: none;
+        stroke: #231f20;
+      }
+
+      .e4fcfd1f-0ea6-4805-83c0-0452f39df8ac {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .a14179a5-8aae-4009-b6b2-5d58abe2e51a {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .e9cbef07-440d-401a-815a-99d19fecd60c {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <title>RM icons - Packster 40 naked</title>
+  <g>
+    <g>
+      <circle class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" cx="12.56838" cy="30.52243" r="11.06838"/>
+      <polyline class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" points="13.967 27.427 60.618 30.977 68.38 16.775"/>
+      <line class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" x1="29.48986" y1="32.38067" x2="19.74676" y2="3.31651"/>
+      <line class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" x1="15.94861" y1="3.31651" x2="25.444" y2="3.31651"/>
+      <polyline class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" points="42.949 30.977 42.949 1.5 45.591 1.5"/>
+      <line class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" x1="74.65491" y1="32.38067" x2="67.96685" y2="14.54585"/>
+      <line class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" x1="42.94855" y1="21.25437" x2="25.76002" y2="21.25437"/>
+      <line class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" x1="23.91189" y1="16.2385" x2="13.96696" y2="27.42655"/>
+      <circle class="a14179a5-8aae-4009-b6b2-5d58abe2e51a" cx="12.25518" cy="30.52243" r="3.70655"/>
+      <circle class="a14179a5-8aae-4009-b6b2-5d58abe2e51a" cx="75.56317" cy="32.38067" r="0.59218"/>
+      <line class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" x1="12.25518" y1="30.52243" x2="13.96696" y2="27.42655"/>
+      <circle class="e4fcfd1f-0ea6-4805-83c0-0452f39df8ac" cx="75.6243" cy="32.97285" r="8.12246"/>
+    </g>
+    <path class="e9cbef07-440d-401a-815a-99d19fecd60c" d="M32.83823,34.36073a11.099,11.099,0,0,1-3.75277,1.21675,3.17237,3.17237,0,0,1-3.19681-3.19681h0a3.19681,3.19681,0,0,1,3.19681-3.19681h2.843c1.76555,0,3.16257,1.00267,3.16257,2.52555S33.99419,33.81027,32.83823,34.36073Z"/>
+  </g>
+</svg>
