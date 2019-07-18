@@ -1,0 +1,26 @@
+<svg id="a3e19337-666d-48fd-97ae-d8ae2f908d02" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="66.98385" height="64" viewBox="0 0 66.98385 64">
+  <defs>
+    <style>
+      .eeb62b14-2992-4544-8b25-b9a5da56f112 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>RM icons - Artboard 1</title>
+  <g id="bfbd34fc-7830-4e58-a09a-0255e5901304" data-name="Outline Icons">
+    <g>
+      <circle class="eeb62b14-2992-4544-8b25-b9a5da56f112" cx="48.48435" cy="45.91729" r="16.58271"/>
+      <circle class="eeb62b14-2992-4544-8b25-b9a5da56f112" cx="48.48435" cy="45.91729" r="2.76379"/>
+      <circle class="eeb62b14-2992-4544-8b25-b9a5da56f112" cx="12.55514" cy="51.44486" r="11.05514"/>
+      <circle class="eeb62b14-2992-4544-8b25-b9a5da56f112" cx="12.55514" cy="51.44486" r="2.76379"/>
+      <path class="eeb62b14-2992-4544-8b25-b9a5da56f112" d="M48.48435,18.27944H44.33867c-17.55556,0-31.78353,14.31917-31.78353,30.40163"/>
+      <path class="eeb62b14-2992-4544-8b25-b9a5da56f112" d="M48.48435,43.1535V11.37s8.29136.69095,8.29136,8.29136"/>
+      <line class="eeb62b14-2992-4544-8b25-b9a5da56f112" x1="29.13785" y1="22.14321" x2="29.13785" y2="12.75186"/>
+      <line class="eeb62b14-2992-4544-8b25-b9a5da56f112" x1="34.66542" y1="12.75186" x2="23.61028" y2="12.75186"/>
+    </g>
+  </g>
+</svg>
